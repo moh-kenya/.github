@@ -1,6 +1,6 @@
 <p align="center">
   <img height="60px"
-    src="https://health.go.ke/sites/default/files/g4588.png"
+    src="https://raw.githubusercontent.com/moh-kenya/.github/main/profile/logo.png"
   />     
   <h1 align="center">Ministry of Health, Kenya</h1>
 </p>
