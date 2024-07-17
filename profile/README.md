@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <a href="https://www.facebook.com/The-Ministry-of-Health-1126847717360250/">
+    <a href="https://www.facebook.com/MinstryofHealthKE/">
         <img height="24px" src="https://cdn-icons-png.freepik.com/512/5968/5968764.png" />
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/MOH_Kenya" >
